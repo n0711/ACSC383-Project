@@ -90,3 +90,9 @@ acsc383-swap-app.zip      zipped copy of the app as submitted
 - Some items from the specification and the client Q&A are not implemented
   yet: password reset, profile editing, admin approval of listings, location
   filtering, and real email delivery.
+
+## Support this project
+
+If this project is useful to you, you can support its development with a one-off contribution via Revolut:
+
+**[revolut.me/nadiotis](https://revolut.me/nadiotis)**
